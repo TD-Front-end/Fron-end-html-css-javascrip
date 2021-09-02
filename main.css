@@ -1,0 +1,18 @@
+body h1{
+    color: red;
+}
+.heading1{
+    color:blue;
+}
+thead.heading2{
+    color: rgb(210, 11, 240);
+}
+div > h2{
+    color: crimson;
+}
+.heading3{
+    color: green;
+}
+div > button{
+    color: orange;
+}
